@@ -7,7 +7,6 @@
 
 ##
 
-- 🔭 Estou trabalhando com análise de dados
-- 🌱 Estou estudando R e SQL
-- 📫 How to reach me: dacolgiovani@gmail.com
-
+- 🔭 Atualmente trabalho com analise de dados economicos em um grupo de pesquisa sobre economia e competitividade internacioanal
+- 🌱 Estou buscando conhecimentos em Data Science e Data Engineering
+- 📫 Me contate em dacolgiovani@gmail.com
