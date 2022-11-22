@@ -7,6 +7,6 @@
 
 ##
 
-- 🔭 Atualmente trabalho com analise de dados economicos em um grupo de pesquisa sobre economia e competitividade internacioanal
+- 🔭 Atualmente trabalho com analise de dados econômicos em um grupo de pesquisa sobre economia e competitividade internacioanal
 - 🌱 Estou buscando conhecimentos em Data Science e Data Engineering
 - 📫 Me contate em dacolgiovani@gmail.com
